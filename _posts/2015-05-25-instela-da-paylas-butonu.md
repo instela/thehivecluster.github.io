@@ -5,7 +5,7 @@ fullview: true
 author: çağatay gürtürk
 ---
 
- **instela** kullanıcıları için internet'in değişik yerlerinde gördükleri linkleri referans alarak başlıklar açmak  oldukça alışılmış bir harekettir. bugüne kadar instela'da toplam **50000**'i aşkın web sitesine ait link paylaşılmıştır ve her gün bunlara yenileri eklenmektedir. instela üzerinde yer alan linkler kullanılarak diğer sitelere aylık 5.000.000'un üzerinde ziyaret gerçekleşmekte ve paylaşım butonlarının yaygınlaşması ile birlikte bu rakamın yalnızca 6 ay içerisinde iki katına çıkması beklenmektedir.
+ **instela** kullanıcıları için internet'in değişik yerlerinde gördükleri linkleri referans vererek başlıklar açmak  oldukça alışılmış bir harekettir. bugüne kadar instela'da toplam **50000**'i aşkın web sitesine ait link paylaşılmıştır ve her gün bunlara yenileri eklenmektedir. instela üzerinde yer alan linkler kullanılarak diğer sitelere aylık 5.000.000'un üzerinde ziyaret gerçekleşmekte ve paylaşım butonlarının yaygınlaşması ile birlikte bu rakamın yalnızca 6 ay içerisinde iki katına çıkması beklenmektedir.
 
 eğer bir web sitesi sahibiyseniz, haber, video, fotoğraf gibi özgün içerikler oluşturuyorsanız sitenize **instela'da paylaş** butonu ekleyerek;
 -instela kullanıcılarının yayınladığınız içeriği instela'da başka kullanıcılarla paylaşarak sitenize trafik sağlayabilir 
