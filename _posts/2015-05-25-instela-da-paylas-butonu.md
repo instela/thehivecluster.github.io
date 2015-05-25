@@ -32,9 +32,9 @@ değişik tasarımlarda **4** adet paylaş butonu bulunmaktadır. buton tipleri 
 </colgroup>
 <tr>
 <td>
-<a href="https://tr.instela.com" class="instela-share" data-type="standart">instela'da paylaş</a>
+<a href="https://tr.instela.com" class="instela-share" data-type="normal">instela'da paylaş</a>
 </td>
-<td>standartnor</td>
+<td>normal</td>
 </tr>
 <tr>
 <td>
@@ -80,7 +80,7 @@ değişik tasarımlarda **4** adet paylaş butonu bulunmaktadır. buton tipleri 
 </tr>
 <tr>
 <td><code>data-type</code></td>
-<td>[<b>standart</b>|small|large|square]</td>
+<td>[<b>normal</b>|small|large|square]</td>
 <td>buton tipi. değişik türler için aşağıya bakınız.</i></td>
 </tr>
 <tr>
