@@ -9,7 +9,7 @@ author: çağatay gürtürk
 
 eğer bir web sitesi sahibiyseniz, haber, video, fotoğraf gibi özgün içerikler oluşturuyorsanız sitenize **instela'da paylaş** butonu ekleyerek
 <ul>
-<li>instela kullanıcılarının yayınladığınız içeriği instela'da başka kullanıcılarla paylaşarak sitenize trafik sağlayabilir</li>
+<li>instela kullanıcılarının yayınladığınız içeriğe ait bağlantıyı takipçileri ile paylaşması sayesinde sitenize trafik sağlayabilir</li>
 <li>bu içeriklerin başlıklarla eşleştirilmesi halinde viral yayılım sağlama şansına erişebilirsiniz.</li>
 </ul>
   
