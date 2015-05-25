@@ -5,9 +5,11 @@ fullview: true
 author: çağatay gürtürk
 ---
 
-internet'in değişik yerlerinde gördükleri linkleri kullanarak başlıklar açarak giriler yaratmak **instela** kullanıcıları oldukça alışılmış bir harekettir. bugüne kadar instela'da toplam **50000**'i aşkın web sitesine ait link paylaşılmış, bunlara her gün yenileri eklenmektedir.
+ **instela** kullanıcıları için internet'in değişik yerlerinde gördükleri linkleri referans alarak başlıklar açmak  oldukça alışılmış bir harekettir. bugüne kadar instela'da toplam **50000**'i aşkın web sitesine ait link paylaşılmıştır ve her gün bunlara yenileri eklenmektedir. instela üzerinde yer alan linkler kullanılarak diğer sitelere aylık 5.000.000'un üzerinde ziyaret gerçekleşmekte ve paylaşım butonlarının yaygınlaşması ile birlikte bu rakamın yalnızca 6 ay içerisinde iki katına çıkması beklenmektedir.
 
-eğer bir web sitesi sahibiyseniz, haber, video, fotoğraf gibi özgün içerikler oluşturuyorsanız instela kullanıcılarının yayınladığınız içeriği instela'da başka kullanıcılarla paylaşarak sitenize trafik sağlamak ve bu içeriği tartışılmasını sağlayarak viral hale gelmesini isteyebilirsiniz. sitenize **instela'da paylaş** butonu ekleyerek içeriklerinizin instela kullanıcıları tarafından paylaşılabilmesini sağlayabilirsiniz.
+eğer bir web sitesi sahibiyseniz, haber, video, fotoğraf gibi özgün içerikler oluşturuyorsanız sitenize **instela'da paylaş** butonu ekleyerek;
+-instela kullanıcılarının yayınladığınız içeriği instela'da başka kullanıcılarla paylaşarak sitenize trafik sağlayabilir 
+-bu içeriklerin başlıklarla eşleştirilmesi halinde viral yayılım sağlama şansına erişebilirsiniz .  
   
 ### kullanım
 
@@ -30,9 +32,9 @@ değişik tasarımlarda **4** adet paylaş butonu bulunmaktadır. buton tipleri 
 </colgroup>
 <tr>
 <td>
-<a href="https://tr.instela.com" class="instela-share" data-type="normal">instela'da paylaş</a>
+<a href="https://tr.instela.com" class="instela-share" data-type="standart">instela'da paylaş</a>
 </td>
-<td>normal</td>
+<td>standartnor</td>
 </tr>
 <tr>
 <td>
@@ -78,7 +80,7 @@ değişik tasarımlarda **4** adet paylaş butonu bulunmaktadır. buton tipleri 
 </tr>
 <tr>
 <td><code>data-type</code></td>
-<td>[<b>normal</b>|small|large|square]</td>
+<td>[<b>standart</b>|small|large|square]</td>
 <td>buton tipi. değişik türler için aşağıya bakınız.</i></td>
 </tr>
 <tr>
