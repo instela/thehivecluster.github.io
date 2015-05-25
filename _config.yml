@@ -1,0 +1,30 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: instela blog
+
+description: instela blog
+author:
+  name: wondrous
+  email: cagatay@instela.com
+  github: thehivecluster
+  twitter: instelacom
+  bio: the collective memory palace of internet
+  email_md5: 037f491e2aa599dc829590bf122e3883
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
